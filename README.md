@@ -1,8 +1,10 @@
 September 15, 2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: jcgiraldo51@hotmail.com, mhv31@att.net
-At: 2026-09-15 22:10:18
-Id: 64ObYG3o
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: jeepnjohnsons@charter.net, aaronbazzoli@hotmail.com
+At: 2026-09-15 22:10:57
+Id: PluxymI1
